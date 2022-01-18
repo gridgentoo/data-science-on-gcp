@@ -1,6 +1,8 @@
 Оригинальный репозиторий.  
 https://github.com/GoogleCloudPlatform/data-science-on-gcp.  
 
+Agile Architecture для аналитики и искусственного интеллекта в облаке Google.  
+https://medium.com/google-cloud/an-agile-architecture-for-analytics-and-ai-on-google-cloud-6415e692591f.  
 
 Vertex AI от Google - вобрала в себя все облачные инструменты Google для подготовки наборов данных и обучения ML моделей.  
 По замыслу разработчиков Google, команды смогут полностью перенести все ML процессы на Vertex AI: дата-инженеры ищут данные в Google BigQuery, аннотаторы размечают данные с помощью встроенных инструментов, дата-сайентисты настраивают алгоритмы обучения в AutoML и автоматически подбирают оптимальные гиперпараметры. Обученную и протестированную ML модель можно подключить к рабочему приложению в пару кликов — либо загрузить на специально подготовленный сервер в Google Cloud, либо экспортировать в один из популярных форматов.  
@@ -20,6 +22,11 @@ https://towardsdatascience.com/how-to-deploy-a-tensorflow-model-to-vertex-ai-87d
 Фрагменты кода взяты из этой записной книжки на GitHub.  
 https://github.com/GoogleCloudPlatform/data-science-on-gcp/blob/edition2/09_vertexai/flights_model_tf2.ipynb
 
+Разработка и развертывание модели машинного обучения на Vertex AI с использованием Python.  
+https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8.  
+
+Как построить конвейер MLOps для настройки гиперпараметров в Vertex AI.  
+https://towardsdatascience.com/how-to-build-an-mlops-pipeline-for-hyperparameter-tuning-in-vertex-ai-45cc2faf4ff5.  
 
 # data-science-on-gcp
 
