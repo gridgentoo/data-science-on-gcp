@@ -14,6 +14,13 @@ https://codelabs.developers.google.com/vertex_custom_training_prediction#0.
 Использование Docker контейнеров позволяет писать код на любом языке программирования и использовать любые библиотеки.  
 
 
+Как развернуть модель тензорного потока [TensorFlow Model] в Vertex AI.  
+https://towardsdatascience.com/how-to-deploy-a-tensorflow-model-to-vertex-ai-87d9ae1df56
+
+Фрагменты кода взяты из этой записной книжки на GitHub.  
+https://github.com/GoogleCloudPlatform/data-science-on-gcp/blob/edition2/09_vertexai/flights_model_tf2.ipynb
+
+
 # data-science-on-gcp
 
 Source code accompanying book:
